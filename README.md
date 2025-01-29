@@ -122,8 +122,9 @@ To make the slicers dynamic, a Values Table was created. This table contains the
    A Line and Stacked Column chart was used to display Value (Sales) for YTD and PYTD by Month and Product Type.
    
 4. Slicer for Year and Dynamic Report Title
-5. Cards for Key Metrics
+5. Cards for Key Metrics.
 
+![Screenshot Dashboard](https://github.com/user-attachments/assets/2249ce3a-f91c-4288-9277-b6e321426e23)
 
 ## Skills Demonstrations
 Throughout this project, various skills were demonstrated, including:
@@ -151,6 +152,7 @@ Throughout this project, various skills were demonstrated, including:
 - Performance Comparison:
 
 - Enabled year-over-year comparisons using YTD and PYTD measures, helping users identify trends and performance differences.
+
 
 ## Conclusion
 This Power BI project demonstrates the ability to transform raw sales data into actionable insights through the use of Power BI, Excel, and DAX. By leveraging data preparation, modeling, and visualization techniques, the project provides a comprehensive overview of sales performance. The dynamic slicers, calculated columns, and measures allow users to explore data interactively, compare performance over time, and make informed decisions.
